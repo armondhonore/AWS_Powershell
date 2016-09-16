@@ -6,4 +6,4 @@ This project attempts to configure a default AWS environment for powershel to ea
 
 the profile will use a number of default credents that con be configured. The shell will show the user the stored AWS credentions and the default region at teh command promt.
 
-## The Files in WindowsPowerShell need to be editied and dropped in you Documents foler or in windows temrinalogy your home folder for it to update your profile/promt
+## The Files in WindowsPowerShell need to be editied and dropped in your .\Documents foler or in windows your home folder it will update your profile/command prompt 
